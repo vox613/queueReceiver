@@ -1,0 +1,3 @@
+com\javainuse\SpringBootRabbitMQApplication.class
+com\javainuse\config\RabbitMQConfig.class
+com\javainuse\service\RabbitMQListner.class
